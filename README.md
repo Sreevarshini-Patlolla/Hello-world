@@ -1,2 +1,3 @@
-# Hello-world
-his is my first repository
+# My name is sree varshini
+This is my first repository
+
